@@ -1,0 +1,14 @@
+# Core Streamlit framework
+streamlit>=1.28.0
+
+# AI Provider APIs
+openai>=1.3.0
+anthropic>=0.7.0
+google-generativeai>=0.3.0
+
+# Additional utilities (optional but recommended)
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# For better error handling and data validation
+typing-extensions>=4.8.0
